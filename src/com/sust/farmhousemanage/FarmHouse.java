@@ -13,6 +13,7 @@ public class FarmHouse {
     public FarmHouse(String fhName, String fhAddr, String fhPername, String fhPertel) {
         super();
         this.fhName = fhName;
+        /*啊实打实大苏打*/
         this.fhAddr = fhAddr;
         this.fhPername = fhPername;
         this.fhPertel = fhPertel;
